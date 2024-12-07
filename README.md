@@ -1,6 +1,10 @@
 
 # 21cm.chops
 
+*This project is ongoing and subject to continuous advancements and modifications.*
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+
 This repository contains the code to generate the Brightness Temperature cube of 21 cm emission of HI for the redshift range \( 5.5 < z < 14 \).
 
 ## Features
