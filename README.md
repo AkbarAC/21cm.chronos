@@ -47,3 +47,10 @@ The generated Brightness Temperature cube will be saved in the `output/` directo
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+
+## Reference (s)
+
+1. https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.4711M/abstract
+2. https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2582M/abstract
+3. https://ui.adsabs.harvard.edu/abs/2011ascl.soft02023M/abstract
+
