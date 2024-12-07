@@ -1,1 +1,13 @@
+astropy
+cython
+joblib
+matplotlib
+numpy
+pandas
+pytest
+scikit-image
+scikit-learn
+scipy
+tqdm
+tools21cm
 
