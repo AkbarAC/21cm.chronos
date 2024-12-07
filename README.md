@@ -26,7 +26,7 @@ This repository contains the code to generate the Brightness Temperature cube of
    ```
 2. Install dependencies:
    ```bash
-   pip install -r [requirements.txt](hrefrequirements.txt)
+   pip install -r requirements.txt
 
    ```
 
