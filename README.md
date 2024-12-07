@@ -21,7 +21,7 @@ This repository contains the code to generate the Brightness Temperature cube of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/21cm.chops.git
+   git clone https://github.com/AkbarAC/21cm.chops.git
    cd 21cm.chops
    ```
 2. Install dependencies:
